@@ -1,0 +1,6 @@
+*.class
+
+gen/*
+
+bin/*
+.settings/org.eclipse.core.resources.prefs
